@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		D8AD4CD320C4331D00D500A6 /* Algorithm_BellmanFord */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_BellmanFord; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8AD4CD620C4331D00D500A6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		D8AD4CDD20C433E400D500A6 /* hw5.data */ = {isa = PBXFileReference; lastKnownFileType = text; name = hw5.data; path = ../Algorithm_HW5/Algorithm_HW5/hw5.data; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 			children = (
 				D8AD4CD520C4331D00D500A6 /* Algorithm_BellmanFord */,
 				D8AD4CD420C4331D00D500A6 /* Products */,
+				D8AD4CDD20C433E400D500A6 /* hw5.data */,
 			);
 			sourceTree = "<group>";
 		};
